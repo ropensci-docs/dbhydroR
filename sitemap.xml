@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/reference/clean_hydro.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/reference/clean_wq.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/reference/dbhydroR-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/reference/get_dbkey.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/reference/get_hydro.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/reference/get_wq.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/dbhydroR/articles/dbhydroR.html</loc>
+  </url>
+</urlset>

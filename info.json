@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "16785da7c56ae86ec523862c35df9f9317a6a75f",
+    "author": "jsta <stachel2@msu.edu>",
+    "time": "2021-05-24 18:26:49",
+    "files": 6,
+    "merge": false,
+    "message": "handle testthat deprecations\n"
+  },
+  "remote": "https://github.com/ropensci/dbhydroR",
+  "pkg": "dbhydroR"
+}
